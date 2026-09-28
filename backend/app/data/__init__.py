@@ -1,0 +1,1 @@
+"""Fact-sheet data layer: prices, SEC filings, macro, computed metrics."""
